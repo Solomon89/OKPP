@@ -6,7 +6,8 @@ class Calck
 {
 public:
     Calck();
-    int test = 0;
+    int test = 5;
+    bool test2 = 7;
 };
 
 #endif // CALCK_H
